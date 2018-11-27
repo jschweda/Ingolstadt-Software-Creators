@@ -4,7 +4,7 @@
 
 ### Organisation
 
-- Sebastian
+- Sebastian [<img src="Assets/Twitter_Social_Icon_Rounded_Square_Color.png" alt="twitter" height="30"/>](https://twitter.com/codeheld)
 - Jan [<img src="Assets/Twitter_Social_Icon_Rounded_Square_Color.png" alt="twitter" height="30"/>](https://twitter.com/jschweda)
 
 ---
