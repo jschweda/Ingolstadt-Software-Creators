@@ -1,6 +1,10 @@
-# Flux 
+# Ingolstadt Software Creators 
 
-An application architecture for React
+### Worum es bei uns geht
+Forum für alle Software Entwickler, Architekten, Betreiber und Interessierte
+Ingolstadt
+Neutral was Technologien und Hersteller angeht
+Junior bis Principal, lokales Startup bis globaler Konzern, Designer bis Architekt.
 
 ---
 
