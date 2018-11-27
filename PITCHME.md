@@ -1,18 +1,22 @@
 # Ingolstadt Software Creators 
 
-### Worum es bei uns geht
-Forum für alle Software Entwickler, Architekten, Betreiber und Interessierte
-Ingolstadt
-Neutral was Technologien und Hersteller angeht
-Junior bis Principal, lokales Startup bis globaler Konzern, Designer bis Architekt.
+Forum für:
+- Software Entwickler
+- Software Architekten
+- Betreiber von Software
+- alle anderen mit Interesse an Softwareentwicklung
+
+Wir treffen uns in Ingolstadt
+Wir sind neutral was Technologien und Hersteller angeht
+Wir sprechen Junior bis Principal, lokales Startup bis globaler Konzern, Designer bis Architekt an
 
 ---
 
-### Flux Design
+### Letztes Meetup
 
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
+- Wir sind in der Premiere
+
+---
 
 ---
 
