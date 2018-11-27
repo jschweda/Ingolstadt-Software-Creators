@@ -40,6 +40,7 @@
 ### Wünsche
 - [github issues](https://github.com/jschweda/Ingolstadt-Software-Creators/issues)
 
+---
 ### Thnx
 
 - Wir sind noch auf der Suche nach Sponsoren ;)
