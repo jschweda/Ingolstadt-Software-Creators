@@ -1,11 +1,14 @@
-### Ingolstadt Software Creators 
+## Ingolstadt Software Creators 
 
-Forum für:
+### Forum für
 - Software Entwickler
 - Software Architekten
 - Betreiber von Software
 - alle anderen mit Interesse an Softwareentwicklung
 
+---
+
+### Was machen wir
 Wir treffen uns in Ingolstadt
 Wir sind neutral was Technologien und Hersteller angeht
 Wir sprechen Junior bis Principal, lokales Startup bis globaler Konzern, Designer bis Architekt an
@@ -21,3 +24,7 @@ Wir sprechen Junior bis Principal, lokales Startup bis globaler Konzern, Designe
 ### Nächstes Meetup
 
 - [Global AI & MR Bootcamp](https://www.globalaibootcamp.com/bootcamp/154bec01-a7cd-4bee-b36c-3f10bd19bc23) am 15.12. 
+
+### Thnx
+
+- Wir sind noch auf der Suche nach Sponsoren ;)
