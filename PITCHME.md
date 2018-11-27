@@ -1,4 +1,4 @@
-# Ingolstadt Software Creators 
+### Ingolstadt Software Creators 
 
 Forum für:
 - Software Entwickler
@@ -18,6 +18,6 @@ Wir sprechen Junior bis Principal, lokales Startup bis globaler Konzern, Designe
 
 ---
 
----
+### Nächstes Meetup
 
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
+- [Global AI & MR Bootcamp](https://www.globalaibootcamp.com/bootcamp/154bec01-a7cd-4bee-b36c-3f10bd19bc23) am 15.12. 
