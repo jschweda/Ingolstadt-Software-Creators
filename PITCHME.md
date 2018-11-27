@@ -1,5 +1,14 @@
 ## Ingolstadt Software Creators 
 
++++
+
+### Organisation
+
+- Sebastian
+- Jan [<img src="Assets/Twitter_Social_Icon_Rounded_Square_Color.png" alt="twitter" height="30"/>](https://twitter.com/jschweda)
+
+---
+
 ### Forum für
 - Software Entwickler
 - Software Architekten
@@ -9,9 +18,9 @@
 ---
 
 ### Was machen wir
-Wir treffen uns in Ingolstadt
-Wir sind neutral was Technologien und Hersteller angeht
-Wir sprechen Junior bis Principal, lokales Startup bis globaler Konzern, Designer bis Architekt an
+- Wir treffen uns in Ingolstadt
+- Wir sind neutral was Technologien und Hersteller angeht
+- Wir sprechen Junior bis Principal, lokales Startup bis globaler Konzern, Designer bis Architekt an
 
 ---
 
@@ -24,6 +33,12 @@ Wir sprechen Junior bis Principal, lokales Startup bis globaler Konzern, Designe
 ### Nächstes Meetup
 
 - [Global AI & MR Bootcamp](https://www.globalaibootcamp.com/bootcamp/154bec01-a7cd-4bee-b36c-3f10bd19bc23) am 15.12. 
+
+---
+
+
+### Wünsche
+- [github issues](https://github.com/jschweda/Ingolstadt-Software-Creators/issues)
 
 ### Thnx
 
