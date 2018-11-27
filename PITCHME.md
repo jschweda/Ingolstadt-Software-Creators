@@ -1,6 +1,6 @@
 ## Ingolstadt Software Creators 
 
-+++
+---
 
 ### Organisation
 
